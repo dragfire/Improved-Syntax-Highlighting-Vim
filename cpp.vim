@@ -2,7 +2,9 @@
 " Language:	C++
 " Maintainer:	Ken Shan <ccshan@post.harvard.edu>
 " Last Change:	2002 Jul 15
-" This file is modified by Devajit Asem <devasem012@hotmail.com>
+" This file is modified by Devajit Asem <devajitasem@outloook.com>
+" Quit when a (custom) syntax file was already loaded
+>
 " For version 5.x: Clear all syntax items
 " For version 6.x: Quit when a syntax file was already loaded
 if version < 600

@@ -22,7 +22,6 @@
 "		- corrected synchronization
 "		- more highlighting is ON by default, except
 "		- space error highlighting is OFF by default
-
 "               This file is modified by Devajit Asem with more improved features
 
 " Optional highlighting can be controlled using these variables.
