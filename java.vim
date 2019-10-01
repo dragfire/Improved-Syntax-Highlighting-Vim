@@ -2,8 +2,7 @@
 " Maintainer:	Claudio Fleiner <claudio@fleiner.com>
 " URL:		http://www.fleiner.com/vim/syntax/java.vim
 " Last Change:	2011 Dec 30
-" This file is modified by Devajit Asem <devasem012@hotmail.com>
-
+" This file is modified by Devajit Asem <devajitasem@outloook.com>
 " Please check :help java.vim for comments on some of the options available.
 
 " Quit when a syntax file was already loaded

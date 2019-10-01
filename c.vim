@@ -2,7 +2,7 @@
 " Language:	C
 " Maintainer:	Bram Moolenaar <Bram@vim.org>
 " Last Change:	2012 May 03
-" This file is modified by Devajit Asem <devasem012@hotmail.com>
+" This file is modified by Devajit Asem <devajitasem@outloook.com>
 " Quit when a (custom) syntax file was already loaded
 if exists("b:current_syntax")
   finish
